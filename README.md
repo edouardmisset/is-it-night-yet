@@ -1,7 +1,7 @@
 # is-it-night-yet
 
-Tiny Deno + Hono service that answers one question for Lyon (France):
-is it currently daylight?
+Tiny Deno + Hono service that answers one question for Lyon (France): is it
+currently daylight?
 
 ## What it returns
 
