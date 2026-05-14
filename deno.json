@@ -65,5 +65,10 @@
     "include": [
       "."
     ]
+  },
+  "deploy": {
+    "org": "edouardmisset",
+    "app": "is-it-night-yet"
   }
 }
+
